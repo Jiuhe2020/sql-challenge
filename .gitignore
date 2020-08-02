@@ -1,18 +1,10 @@
-# nbgrader database file
-gradebook.db
-
 # .DS_Store
 .DS_Store
-
-# Idea
-.idea
 
 # Editor
 .vscode
 
-
 # Jupyter Checkpoints
-
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
