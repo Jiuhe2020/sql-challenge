@@ -5,8 +5,8 @@ This project utilizes Data Engineering and Data Analysis to build a SQL database
 
 ## Data Engineering
 - Inspect the CSVs and sketch out an ERD of the tables. The [QuickDBD](https://www.quickdatabasediagrams.com/) was used in this project.  Use the information from ERD to create a table schema for each of the six CSV files and specify data types, primary keys, foreign keys, and other constraints.
- - For the primary keys check to see if the column is unique, otherwise create a [composite key](https://en.wikipedia.org/wiki/Compound_key), which takes two primary keys in order to uniquely identify a row
- - Be sure to create tables in the correct order to handle foreign keys
+  - For the primary keys check to see if the column is unique, otherwise create a [composite key](https://en.wikipedia.org/wiki/Compound_key), which takes two primary keys in order to uniquely identify a row
+  - Be sure to create tables in the correct order to handle foreign keys
 ![ERD](https://github.com/Jiuhe2020/sql-challenge/blob/master/EmployeeSQL/employee_ERD.png)
 - Import each CSV file into the corresponding SQL table and make sure to import the data in the same order that the tables were created
 ## Data Analysis
